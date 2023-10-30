@@ -2,8 +2,7 @@
 #include <iostream>
 using namespace std;
 
-class clsCourses
-{
+class clsCourses{
 
 public:
     string name;
